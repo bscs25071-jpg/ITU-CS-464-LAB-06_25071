@@ -54,7 +54,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _BUILTIN_QueueControl: -1
+    - _BUILTIN_QueueControl: 0
     - _BUILTIN_QueueOffset: 0
     - _Falloff: 50
     - _GridScale: 1
@@ -68,6 +68,7 @@ Material:
     - _BaseColor: {r: 0.74264705, g: 0.26442105, b: 0.2020437, a: 0}
     - _Base_Color: {r: 0.74264705, g: 0.26442102, b: 0.20204365, a: 0}
   m_BuildTextureStacks: []
+  m_AllowLocking: 1
 --- !u!114 &3801147746225320407
 MonoBehaviour:
   m_ObjectHideFlags: 11
